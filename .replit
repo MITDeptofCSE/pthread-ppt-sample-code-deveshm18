@@ -1,0 +1,2 @@
+language = "c"
+run = "cc main.c; ./a.out"
